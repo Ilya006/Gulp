@@ -1,6 +1,9 @@
-# lawyers
-Этот проект был разработан для поиска юристов. 
-## Технологии
-Верстка была создана с помощью `Gulp`. 
-Для убновного написания стилей была выбрана технология `sass`. 
-Для безопасной и простой отправки электронных писем с помощью кода PHP с веб-сервера использовал библиотеку `PHPMailer`.
+# Gulp
+
+gulp ready build for building projects
+
+## Commands
+
+`npm run gulp` - starts a local server for development </br>
+`npm run build` - build project in `dist` folder
+
